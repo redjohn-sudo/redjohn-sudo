@@ -1,7 +1,7 @@
 # Vincent Roumane
 
 Builder based in Paris. I make AI agents that do real work, and I measure what they do before I claim it.
-Student at [École 42 Paris](https://42.fr) (piscine passed, curriculum from November 2026).
+Incoming student at [École 42 Paris](https://42.fr) (piscine passed, curriculum from November 2026).
 
 ## What I'm building
 
@@ -43,4 +43,4 @@ remembers it for the whole team, coding agents included (MCP tool `ask_team`).
 I build with AI coding agents (Claude Code, Codex) and drive them: I decide, check and ship. Every number on
 this page comes from a measurement I can show.
 
-[X @rootseptember](https://x.com/rootseptember)
+[LinkedIn](https://www.linkedin.com/in/vincent-roumane-426512300) · [X @rootseptember](https://x.com/rootseptember)
