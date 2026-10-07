@@ -1,6 +1,6 @@
-# Vincent Roumane
+# root
 
-Builder in Paris. I make AI agents that do real work, and I measure them before I claim anything.
+Vincent Roumane, builder in Paris. I make AI agents that do real work, and I measure them before I claim anything.
 Incoming student at École 42 Paris.
 
 - **[Contingency](https://contingency-scan.vercel.app):** free grid capacity studies for Dutch businesses blocked by grid congestion.
