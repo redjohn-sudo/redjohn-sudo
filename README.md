@@ -18,15 +18,15 @@
 <table width="100%">
   <tr>
     <th width="50%" align="center"><a href="https://contingency-scan.vercel.app">Contingency</a></th>
-    <th width="50%" align="center"></th>
+    <th width="50%" align="center">Pegasus</th>
   </tr>
   <tr>
     <td width="50%" align="center"><a href="https://contingency-scan.vercel.app"><img src="demos/contingency.gif" width="380" alt="Contingency reading a factory's grid documents and flagging that the battery numbers do not add up"></a></td>
-    <td width="50%" align="center"></td>
+    <td width="50%" align="center"><img src="demos/tacto.gif" width="380" alt="Pegasus, an AI buyer agent, negotiating a supplier price increase down by e-mail"></td>
   </tr>
   <tr>
     <td width="50%" align="center">Grid capacity study for Dutch businesses blocked by grid congestion. Reads the contracts and quotes, flags every contradiction with its source line. Built at a hackathon in Amsterdam. (Python, FastAPI)<br><a href="https://contingency-scan.vercel.app">Visit site →</a></td>
-    <td width="50%" align="center"></td>
+    <td width="50%" align="center">An AI buyer agent that negotiates supplier contracts by e-mail, backing every argument with the contract and public price indices. Team Pegasus, finalist at the EHL Grand Final in Munich. (Python)</td>
   </tr>
 </table>
 
