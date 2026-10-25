@@ -30,4 +30,9 @@
   </tr>
 </table>
 
+
+<h3 align="center">Root · red-team harness</h3>
+<p align="center"><img src="demos/redteam.gif" width="380" alt="An LLM red-team harness scanning a local model for prompt-leak and injection weaknesses, 0 leaks in 9 attempts"></p>
+<p align="center">An LLM red-team harness I wrote from scratch (garak-style: probe / detector / generator / harness). On a local model it found 4 prompt-leak paths on a naive setup and 1 after hardening the system prompt, using harmless secret canaries on authorized local targets. (Python)</p>
+
 [LinkedIn](https://www.linkedin.com/in/vincent-roumane-426512300) · [X](https://x.com/rootseptember)
