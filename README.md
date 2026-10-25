@@ -31,8 +31,19 @@
 </table>
 
 
-<h3 align="center">Root · red-team harness</h3>
-<p align="center"><img src="demos/redteam.gif" width="380" alt="An LLM red-team harness scanning a local model for prompt-leak and injection weaknesses, 0 leaks in 9 attempts"></p>
-<p align="center">An LLM red-team harness I wrote from scratch (garak-style: probe / detector / generator / harness). On a local model it found 4 prompt-leak paths on a naive setup and 1 after hardening the system prompt, using harmless secret canaries on authorized local targets. (Python)</p>
+<table width="100%">
+  <tr>
+    <th width="50%" align="center">Root · red-team harness</th>
+    <th width="50%" align="center">La chambre</th>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><img src="demos/redteam.gif" width="380" alt="An LLM red-team harness scanning a local model for prompt-leak weaknesses"></td>
+    <td width="50%" align="center"><img src="demos/chambre.gif" width="300" alt="A little pixel-art game where my LLMs, my partner and I live"></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">An LLM red-team harness I wrote from scratch (garak-style: probe / detector / generator / harness). On a local model it found 4 prompt-leak paths on a naive setup and 1 after hardening the system prompt, using harmless secret canaries on authorized local targets. (Python)</td>
+    <td width="50%" align="center">Un petit jeu en pixel art ou vivent mes LLM, ma femme et moi.</td>
+  </tr>
+</table>
 
 [LinkedIn](https://www.linkedin.com/in/vincent-roumane-426512300) · [X](https://x.com/rootseptember)
