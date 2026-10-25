@@ -15,4 +15,19 @@
   </tr>
 </table>
 
+<table width="100%">
+  <tr>
+    <th width="50%" align="center"><a href="https://contingency-scan.vercel.app">Contingency</a></th>
+    <th width="50%" align="center"></th>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><a href="https://contingency-scan.vercel.app"><img src="demos/contingency.gif" width="380" alt="Contingency reading a factory's grid documents and flagging that the battery numbers do not add up"></a></td>
+    <td width="50%" align="center"></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">Grid capacity study for Dutch businesses blocked by grid congestion. Reads the contracts and quotes, flags every contradiction with its source line. Built at a hackathon in Amsterdam. (Python, FastAPI)<br><a href="https://contingency-scan.vercel.app">Visit site →</a></td>
+    <td width="50%" align="center"></td>
+  </tr>
+</table>
+
 [LinkedIn](https://www.linkedin.com/in/vincent-roumane-426512300) · [X](https://x.com/rootseptember)
