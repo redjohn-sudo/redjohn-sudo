@@ -6,7 +6,7 @@
     <th width="50%" align="center"></th>
   </tr>
   <tr>
-    <td width="50%" align="center"><img src="demos/root.gif" alt="Root, my LLM agent, answering in its own window"></td>
+    <td width="50%" align="center"><img src="demos/root.gif" width="380" alt="Root, my LLM agent, answering in its own window"></td>
     <td width="50%" align="center"></td>
   </tr>
   <tr>
