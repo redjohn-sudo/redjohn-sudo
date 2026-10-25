@@ -1,5 +1,7 @@
 # root
 
+*I build AI agents, and a little world for them to live in.*
+
 <table width="100%">
   <tr>
     <th width="50%" align="center">Root</th>
