@@ -46,4 +46,14 @@
   </tr>
 </table>
 
+## Stack
+
+<p align="center"><b>Languages &amp; frameworks</b></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=py,rust,c,ts,js,html,css,bash,react,tauri,fastapi,flask,nodejs,pytorch,opencv&perline=15" alt="Python, Rust, C, TypeScript, JavaScript, HTML, CSS, Bash, React, Tauri, FastAPI, Flask, Node.js, PyTorch, OpenCV" /></p>
+
+<p align="center"><b>Tools &amp; infra</b></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=git,github,linux,apple,docker,sqlite,postgres,vim,vercel,netlify&perline=15" alt="Git, GitHub, Linux, macOS, Docker, SQLite, Postgres, Vim, Vercel, Netlify" /></p>
+
+<p align="center">Also: LLM agents · MCP · Claude Agent SDK · llama.cpp / GGUF · Ollama · RAG · YOLO · red-team / prompt injection</p>
+
 [LinkedIn](https://www.linkedin.com/in/vincent-roumane-426512300) · [X](https://x.com/rootseptember)
