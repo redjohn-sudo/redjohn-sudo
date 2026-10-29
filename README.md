@@ -35,15 +35,15 @@
 
 <table width="100%">
   <tr>
-    <th width="50%" align="center">Root · red-team harness</th>
+    <th width="50%" align="center"><a href="https://github.com/redjohn-sudo/badcode">Bad Code</a></th>
     <th width="50%" align="center">La chambre</th>
   </tr>
   <tr>
-    <td width="50%" align="center"><img src="demos/redteam.gif" width="380" alt="An LLM red-team harness scanning a local model for prompt-leak weaknesses"></td>
+    <td width="50%" align="center"><a href="https://github.com/redjohn-sudo/badcode"><img src="demos/badcode.gif" width="380" alt="Bad Code: an injected note runs against a hardened agent in the local arena; the verdict shows no client data left for any external destination"></a></td>
     <td width="50%" align="center"><img src="demos/chambre.gif" width="300" alt="A little pixel-art game where my LLMs, my partner and I live"></td>
   </tr>
   <tr>
-    <td width="50%" align="center">An LLM red-team harness I wrote from scratch (garak-style: probe / detector / generator / harness). On a local model it found 4 prompt-leak paths on a naive setup and 1 after hardening the system prompt, using harmless secret canaries on authorized local targets. (Python)</td>
+    <td width="50%" align="center">An AI red-team toolkit for indirect prompt injection against tool-using agents, with a local arena where attacks and defenses co-evolve: each break ships with the defense that stops it. Authorized targets only. (Python)<br><a href="https://github.com/redjohn-sudo/badcode">Code →</a></td>
     <td width="50%" align="center">Un petit jeu en pixel art ou vivent mes LLM, ma femme et moi.</td>
   </tr>
 </table>
